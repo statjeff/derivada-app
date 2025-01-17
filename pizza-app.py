@@ -33,11 +33,11 @@ PERIM_FIXED = 32
 st.header("Parámetros y Explicación")
 st.markdown(
     """
-- Sea \\( r \\) el radio de la pizza.  
-- Sea \\( \\theta \\) (en radianes) el **ángulo** del sector.  
+- Sea \( r \) el radio de la pizza.  
+- Sea \( \\theta \) (en radianes) el **ángulo** del sector.  
 - El **perímetro** de la rebanada es  
-  \\[
-    r\\,\\theta + 2r = 32.
+  \[
+    r\,\theta + 2r = 32.
   \\]  
 - El **área** de ese sector es  
   \\[
